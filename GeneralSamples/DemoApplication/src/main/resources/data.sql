@@ -1,0 +1,10 @@
+insert into user values (100, sysdate(), 'Balaji');
+insert into user values (101, sysdate(), 'Ravikumar');
+insert into user values (102, sysdate(), 'Vikram');
+insert into post values (1000,'This is my test post1',100);
+insert into post values (1001,'This is my test post2',100);
+insert into post values (1002,'This is my test post3',100);
+insert into post values (1003,'This is my test post1',101);
+insert into post values (1004,'This is my test post2',101);
+insert into post values (1005,'This is my test post1',102);
+insert into post values (1006,'This is my test post2',102);
